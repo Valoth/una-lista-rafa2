@@ -46,7 +46,7 @@ Conta diferentes tipos de caracteres em uma string informada pelo usuário.
 
 Simula uma questão de múltipla escolha com controle de tentativas.
 
-* Uso de `switch` e `do-while`
+* Uso de `if else` e `do-while`
 * Respostas com alternativas de A a D
 * Limite de 3 tentativas
 * Feedback de acerto ou erro
